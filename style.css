@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: serif;
+}
+.orng{
+color: orange;
+}
+
+.gray{
+    color: rgb(95, 85, 85);
+}
+.hdr1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.hir{
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+#dashp{
+    color:rgb(127, 139, 151);
+     font-size: larger; 
+     font-weight: bold; 
+     padding-bottom: 50px;
+}
+
+.hbtn{
+    background-image: linear-gradient( 90deg, orange, rgb(255, 123, 0));
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    padding: 20px 35px;
+    text-decoration: none;
+    border-radius: 30px;
+    box-shadow: 10px 10px 20px rgb(247, 183, 64);
+}
+
+.flexible{
+    display: flex;
+    margin-bottom: 130px;
+}
+
+.halfwidth{
+    width: 50%;
+}
+
+.dashitem{
+    padding-left: 7%;
+    padding-top: 15%;
+    width: 45%;
+}
+
+.dashimg{
+    padding-top: 7%;
+    width: 55%;
+}
+
+.profimg{
+    padding-left: 7%;
+    padding-top: 2%;
+    width: 40%;
+}
+
+.intro{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.intro1{
+    padding-right: 7%;
+    padding-top: 7%;
+    width: 30%;
+}
+
+#introp{
+    color: rgb(39, 39, 39); 
+    font-size: larger; 
+    font-weight: 500; 
+    padding-bottom: 50px;
+}
+
