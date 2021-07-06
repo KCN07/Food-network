@@ -14,7 +14,7 @@ color: orange;
 }
 .hdr1{
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .hir{
@@ -24,7 +24,7 @@ color: orange;
 
 #dashp{
     color:rgb(127, 139, 151);
-     font-size: larger; 
+     font-size: x-large; 
      font-weight: bold; 
      padding-bottom: 50px;
 }
@@ -141,7 +141,7 @@ padding: 17px;
     border-radius: 12px;
     margin: 150px auto;
     
-    padding: 30px 70px;
+    padding: 30px 100px;
 }
 .mediacardtitle{
     text-align: center;
