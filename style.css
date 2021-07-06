@@ -59,14 +59,17 @@ color: orange;
 
 .profimg{
     padding-left: 7%;
-    padding-top: 2%;
+    padding-top: 5%;
     width: 40%;
 }
 
 .intro{
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
+    background-color: rgb(250, 238, 217);
+    display: flex;
+    margin-bottom: 30px;
 }
 
 .intro1{
@@ -79,6 +82,44 @@ color: orange;
     color: rgb(39, 39, 39); 
     font-size: larger; 
     font-weight: 500; 
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 
+.recipe{
+    padding-left: 7%;
+}
+
+.cardrecipe{
+    width: 30%;
+    border: 1px solid white;
+    box-shadow: 0 0 12px 18px rgb(231, 228, 228);
+    border-radius: 20px;
+    margin-right: 80px;
+}
+
+.recdetails{
+    padding: 17px;
+}
+
+.recimg{
+width: 90%;
+padding: 17px;
+
+}
+
+.title{
+    margin-bottom: 0px;
+}
+
+.rec{
+    padding-top: 20px;
+}
+
+#des{
+    margin:  auto;
+    margin-bottom: 50px;
+    width: 700px;
+    font-size: larger; 
+    color: rgb(105, 104, 104); 
+    text-align: center;
+}
