@@ -99,6 +99,8 @@ color: orange;
 
 .recdetails{
     padding: 17px;
+    font-size: larger;
+    color: gray;
 }
 
 .recimg{
@@ -108,7 +110,12 @@ padding: 17px;
 }
 
 .title{
+    padding: 17px 17px 0px 17px ;
     margin-bottom: 0px;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
 }
 
 .rec{
@@ -123,3 +130,55 @@ padding: 17px;
     color: rgb(105, 104, 104); 
     text-align: center;
 }
+
+.mediacard{
+    width: 60%;
+    border: 1px solid white;
+    box-shadow: 0 0 12px 15px rgb(231, 228, 228);
+    border-radius: 12px;
+    margin: 150px auto;
+    
+    padding: 30px 70px;
+}
+.mediacardtitle{
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    font-weight: bolder;
+    font-size: medium;
+    color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+
+    .list{
+        list-style: none;
+        margin: 20px 250px;
+        display: flex;
+    }
+    .item{
+        margin-right: 50px;
+        margin-top: 30px;
+    }
+
+    .revtitle{
+        padding: 17px 17px 0px 17px ;
+        margin-bottom: 0px;
+        font-weight: 600;
+        font-size: 25px;
+        font-family: sans-serif;
+        color: rgb(21, 196, 196);
+    }
+
+    .revphoto{
+        height: 40%;
+    }
