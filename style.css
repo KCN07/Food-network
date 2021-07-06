@@ -2,6 +2,9 @@ body{
     margin: 0;
     font-family: serif;
 }
+.font{
+    font-family: 'Oswald', sans-serif;
+}
 .orng{
 color: orange;
 }
@@ -132,7 +135,7 @@ padding: 17px;
 }
 
 .mediacard{
-    width: 60%;
+    width: 70%;
     border: 1px solid white;
     box-shadow: 0 0 12px 15px rgb(231, 228, 228);
     border-radius: 12px;
@@ -175,10 +178,10 @@ footer{
         margin-bottom: 0px;
         font-weight: 600;
         font-size: 25px;
-        font-family: sans-serif;
         color: rgb(21, 196, 196);
     }
 
     .revphoto{
         height: 40%;
+        border-radius: 8%;
     }
